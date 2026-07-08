@@ -1,34 +1,16 @@
-# Ai_Agent_Project
- Developed a modern AI agency web platform integrating an AI-powered chatbot to enhance user engagement.   Built lead generation and contact management modules to streamline client acquisition workflows.   Delivered a highly interactive, animated UI with smooth transitions and performance optimization. 
-<div align="center">
+# React + Vite
 
-  <a href="http://localhost:5173/"><strong>➥ Live Demo</strong></a>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-</div>
+Currently, two official plugins are available:
 
-<br />
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-### Demo Screeshots
+## React Compiler
 
-<img width="1537" height="688" alt="Agent Demo Image" src="https://github.com/user-attachments/assets/8f64aa06-e3a4-488c-a6f6-0e3dfb1361be" />
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
+## Expanding the ESLint configuration
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Fitlife** locally, run this command on your git bash:
-
-Linux and macOS:
-
-### Contact
-
-If you want to contact with me you can reach me at.......
-
-### License
-
-This project is **free to use** and does not contains any license.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
